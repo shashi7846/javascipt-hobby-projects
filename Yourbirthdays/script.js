@@ -191,16 +191,6 @@ function yourCalorie(){
 
 
 
-    // var birthyear = prompt('what year you were born?');
-    // var ageInDayss =(2021-birthyear)*365;
-    // // var ageInDayss =(2021-birthyear);
-    // var h1 = document.createElement("h1")
-    // var textanswer = document.createTextNode('you are '+ageInDayss+'days old')
-    // // var textanswer1 = document.createTextNode(' Or '+ageInDayss1+'days old')
-    // h1.setAttribute('id','ageInDays');
-    // h1.appendChild(textanswer)
-    // // h1.appendChild(textanswer1)
     
-    // document.getElementById('flex-box-result').appendChild(h1);
     
     
